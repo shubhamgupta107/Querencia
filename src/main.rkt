@@ -361,7 +361,6 @@
                         [height 730]
                         [style (list 'fullscreen-button 'fullscreen-aux)]
                         [alignment '(center center)]))
-(send soft-frame set-icon q-icon)
 
 (define text-obj (new text%
                       [line-spacing 6]
